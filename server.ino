@@ -11,8 +11,8 @@ const char* imagefile = "/image.png";
 const char* htmlfile = "/index.html";
 
 //ESP AP Mode configuration
-const char *ssid = "dropGT";
-const char *password = "98983084";
+const char *ssid = "ssid";
+const char *password = "password";
 
 
 ESP8266WebServer server(80);
